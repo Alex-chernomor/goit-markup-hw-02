@@ -48,6 +48,10 @@ button {
     text-decoration: none;
 }
 
+.network {
+text-decoration: none;
+}
+
 .joint {
     font-weight: 700px;
     font-size: 14px;
@@ -72,12 +76,17 @@ button {
 
 /* link styles */
 
+.link-portfolio {
+    text-decoration: none;
+}
+
 .link {
-    color:var(--text-color) ;
+    color:var(--text-color);
     font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
+    text-decoration: none;
 }
 .link:hover ,
 .link:focus {
@@ -89,7 +98,7 @@ button {
     font-weight: 500;
     font-size: 12px;
     line-height: 1.17;
-    
+    text-decoration: none;
 }
 .contact:hover ,
 .contact:focus {
@@ -124,8 +133,7 @@ button {
     align-items: center;
     text-align: center;
     letter-spacing: 0.06em;
-   
-}
+  }
 
 .business-header {
     color: var(--text-color);
