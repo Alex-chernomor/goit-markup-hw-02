@@ -185,7 +185,7 @@ text-decoration: none;
 .button-portfolio:hover ,
 .button-portfolio:focus {
     background-color: var(--link-hover-color);
-    color: var--white-color);
+    color: var(--white-color);
 }
 
 /* our-works */
